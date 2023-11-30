@@ -3,13 +3,9 @@
 Filmster is an interactive Social Networking web application for sharing Movie ratings and reviews.
 It is built on python based DJANGO web framework with search and genre filter functionality using API integration.
 
-### Installation
+### Website Demo
 
-Using the terminal in the folder, type the following command
-
-```bash
-python manage.py runserver
-```
+You can visit the demo of the website by [clicking here](http://34.131.97.145:8000/).
 
 ## Description
 
